@@ -51,6 +51,7 @@ The trainig process for this file was done using an EC2 instance from AWS. Apart
 The model was trained on a balanced data set sampled from an equal number of positive and negative reviews. The hyperparameters need to be further adjusted to provide better accuracy.
 
 Example of training loop loss and accuracy:
+
 ![image](https://user-images.githubusercontent.com/32421864/234688027-ae270f14-4a3e-4f93-af6b-42a75140fcf6.png)
 
 
