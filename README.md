@@ -8,7 +8,7 @@ A complete description of the project can be found [here](https://docs.google.co
 Instructions on how to run each file:
 
 ## lstm.ipynb
-The following two files should be available in the same directory:
+The following files should be available in the same directory:
 - Reviews.csv: This file can be downloaded from the Kaggle link above.
 - glove.840B.300d.txt: It can be downloaded [here](https://nlp.stanford.edu/projects/glove/). This file provides us with pretrained glove word vectors that have been trained on Common Crawl data, a snapshot of the whole web. 
 - movie_train.tsv: Needed only for the dataset shift portion of the code.
