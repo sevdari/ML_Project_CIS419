@@ -14,4 +14,4 @@ The following two files should be available in the same directory:
 
 The trainig process for this file was done using an EC2 instance from AWS. Apart from that, the other code cells should run in under a few minutes in most laptops. 
 
-The best performance achieved on the validation set (which contained an equal number of each class) using an LSTM model was close to 90%. 
+The best performance achieved on the validation set (which contained an equal number of samples from each class) using an LSTM model was close to 90%. 
