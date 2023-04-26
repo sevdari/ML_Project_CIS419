@@ -17,5 +17,6 @@ The trainig process for this file was done using an EC2 instance from AWS. Apart
 The best performance achieved on the validation set (which contained an equal number of samples from each class) was close to 90%.
 
 Some examples of sentences and their classification:
+
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/88673859/234456738-90690405-8983-4203-9f91-99cc66dec552.png">
 
