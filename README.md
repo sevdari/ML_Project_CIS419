@@ -48,6 +48,10 @@ The following file should be available in the same directory:
 - Reviews.csv: This file can be downloaded from the Kaggle link above.
 The trainig process for this file was done using an EC2 instance from AWS. Apart from that, the data preprocessing cells into BERT tokens should take no more than 10 minutes. 
 
-The model was trained on a balanced data set sampled from an equal number of positive and negative reviews. The hyperparameters need to be further adjusted to provide better accuracy. 
+The model was trained on a balanced data set sampled from an equal number of positive and negative reviews. The hyperparameters need to be further adjusted to provide better accuracy.
+
+Example of training loop loss and accuracy:
+![image](https://user-images.githubusercontent.com/32421864/234688027-ae270f14-4a3e-4f93-af6b-42a75140fcf6.png)
+
 
 
