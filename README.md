@@ -43,5 +43,11 @@ Snapshot of boosting rounds:
 
 ![image](https://user-images.githubusercontent.com/101349307/234668485-0ef9ed61-bb34-42cc-9698-7e036747e855.png)
 
+## bert.ipynb
+The following file should be available in the same directory:
+- Reviews.csv: This file can be downloaded from the Kaggle link above.
+The trainig process for this file was done using an EC2 instance from AWS. Apart from that, the data preprocessing cells into BERT tokens should take no more than 10 minutes. 
+
+The model was trained on a balanced data set sampled from an equal number of positive and negative reviews. The hyperparameters need to be further adjusted to provide better accuracy. 
 
 
