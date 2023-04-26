@@ -28,7 +28,7 @@ Snapshot of the EC2 Training:
 ## xgboost.ipynb
 
 The following file should be available in the same directory: 
-- [cleaned_data.csv] (https://drive.google.com/file/d/1EkQCfCjYiFPtzbNTTSWsqz7-UkyaeZkE/view?usp=sharing): An already cleaned review dataset that can be downloaded [here]: (https://drive.google.com/file/d/1EkQCfCjYiFPtzbNTTSWsqz7-UkyaeZkE/view?usp=sharing). 
+- [cleaned_data.csv](https://drive.google.com/file/d/1EkQCfCjYiFPtzbNTTSWsqz7-UkyaeZkE/view) : An already cleaned review dataset that can be downloaded [here](https://drive.google.com/file/d/1EkQCfCjYiFPtzbNTTSWsqz7-UkyaeZkE/view). 
 
 The training process for this file was done both locally and in an instance of SageMaker from AWS. The rest of the cells provided should run in under five minutes on most laptops, and comments should provide the best hyperparameters we used (thus saving on GridSearch time). 
 
