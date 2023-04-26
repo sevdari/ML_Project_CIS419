@@ -20,3 +20,6 @@ Some examples of sentences and their classification:
 
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/88673859/234456738-90690405-8983-4203-9f91-99cc66dec552.png">
 
+Snapshot of the EC2 Training:
+
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/88673859/234476454-9dadd4d6-662c-4204-9128-8029ee736ac0.png">
