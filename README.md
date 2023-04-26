@@ -11,6 +11,7 @@ Instructions on how to run each file:
 The following two files should be available in the same directory:
 - Reviews.csv: This file can be downloaded from the Kaggle link above.
 - glove.840B.300d.txt: It can be downloaded [here](https://nlp.stanford.edu/projects/glove/). This file provides us with pretrained glove word vectors that have been trained on Common Crawl data, a snapshot of the whole web. 
+- movie_train.tsv: Needed only for the dataset shift portion of the code.
 
 The trainig process for this file was done using an EC2 instance from AWS. Apart from that, the other code cells should run in under a few minutes in most laptops. 
 
