@@ -23,3 +23,24 @@ Some examples of sentences and their classification:
 Snapshot of the EC2 Training:
 
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/88673859/234476454-9dadd4d6-662c-4204-9128-8029ee736ac0.png">
+
+
+## xgboost.ipynb
+
+The following file should be available in the same directory: 
+- [cleaned_data.csv] (https://drive.google.com/file/d/1EkQCfCjYiFPtzbNTTSWsqz7-UkyaeZkE/view?usp=sharing): An already cleaned review dataset that can be downloaded [here]: (https://drive.google.com/file/d/1EkQCfCjYiFPtzbNTTSWsqz7-UkyaeZkE/view?usp=sharing). 
+
+The training process for this file was done both locally and in an instance of SageMaker from AWS. The rest of the cells provided should run in under five minutes on most laptops, and comments should provide the best hyperparameters we used (thus saving on GridSearch time). 
+
+The best performance achieved on a balanced testing set (which contained equal samples from each class) was about 84%. 
+
+Example of sentiment analysis on a short user-generated sentence for our best performing XGBoost model. 
+
+![image](https://user-images.githubusercontent.com/101349307/234667598-3fbfb25e-79a4-4adb-a773-a452c382db65.png)
+
+Snapshot of boosting rounds: 
+
+![image](https://user-images.githubusercontent.com/101349307/234668485-0ef9ed61-bb34-42cc-9698-7e036747e855.png)
+
+
+
